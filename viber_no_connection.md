@@ -2,5 +2,5 @@
 
 You need to install openssl
 ```bash
-sudo pacman -S openssl-1.0*
+sudo pacman -S openssl-1.0
 ```
