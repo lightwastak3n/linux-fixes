@@ -1,6 +1,8 @@
 # Linux fixes
-Just some notes for myself but someone else might find it useful. No guarantees.
+Just some notes for myself but someone else might find it useful. No guarantees!
+
 Mostly under Manjaro XFCE but some other stuff too.
+
 Specs if relevant: Ryzen 5 2400g, ASRock B450M Pro4, Aegis 16 GB DDR4-3000
 
 - [Wacom tablet draw area - dual monitors](Notes/wacom_draw_area.md)
