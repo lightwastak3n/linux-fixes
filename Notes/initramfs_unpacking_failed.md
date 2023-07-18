@@ -7,5 +7,5 @@ Steps that solved it:
 2. Boot into USB and run `su`
 3. `manjaro-chroot -a` - then choose your broken Manjaro
 4. `nano /etc/mkinitpcio.conf`  - uncomment the compression gzip line and save
-5. `mkinicpio -P && update-grub`
+5. `mkinitpcio -P && update-grub`
 6. Reboot
