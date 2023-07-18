@@ -5,6 +5,7 @@ Mostly under Manjaro XFCE but some other stuff too.
 
 Specs if relevant: Ryzen 5 2400g, ASRock B450M Pro4, Aegis 16 GB DDR4-3000
 
+- [initramfs unpacking failed](Notes/initramfs_unpacking_failed.md)
 - [Wacom tablet draw area - dual monitors](Notes/wacom_draw_area.md)
 - [Screen saver locked, not accepting password](Notes/screen_saver_locked.md)
 - [Screen tearing after install](Notes/manjaro_screen_tearing.md)
